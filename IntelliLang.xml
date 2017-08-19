@@ -4,5 +4,9 @@
       <display-name>html/@lang</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("lang")).withParent(xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="Angular2HTML" injector-id="xml">
+      <display-name>img/@src</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("src")).withParent(xmlTag().withLocalName(string().equalTo("img")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
