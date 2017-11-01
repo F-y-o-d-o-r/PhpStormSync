@@ -7,9 +7,13 @@
         <entry key="'Ctrl+Alt+S'" value="13" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="6" />
         <entry key="'Ctrl+Enter'" value="4" />
+        <entry key="'Ctrl+F2'" value="4" />
+        <entry key="'Ctrl+F5'" value="2" />
+        <entry key="'Ctrl+Shift+F10'" value="2" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="1" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="2" />
         <entry key="'Delete'" value="4" />
+        <entry key="'F9'" value="3" />
       </map>
     </option>
   </component>
