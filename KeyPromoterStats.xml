@@ -2,10 +2,11 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+1'" value="22" />
+        <entry key="'Alt+1'" value="23" />
         <entry key="'Alt+2'" value="2" />
         <entry key="'Alt+7'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="15" />
+        <entry key="'Ctrl+Alt+Y'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="12" />
         <entry key="'Ctrl+Enter'" value="5" />
         <entry key="'Ctrl+F2'" value="4" />
