@@ -5,12 +5,16 @@
         <entry key="'Alt+1'" value="47" />
         <entry key="'Alt+2'" value="2" />
         <entry key="'Alt+7'" value="1" />
+        <entry key="'Alt+Home'" value="1" />
         <entry key="'Alt+Insert'" value="1" />
+        <entry key="'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="18" />
+        <entry key="'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="16" />
         <entry key="'Ctrl+Enter'" value="7" />
         <entry key="'Ctrl+F2'" value="4" />
         <entry key="'Ctrl+F5'" value="2" />
+        <entry key="'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="5" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="3" />
