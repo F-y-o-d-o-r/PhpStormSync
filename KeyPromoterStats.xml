@@ -28,6 +28,7 @@
         <entry key="'F9'" value="3" />
         <entry key="'Insert'" value="1" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="39" />
+        <entry key="'Shift+F6'" value="1" />
       </map>
     </option>
   </component>
