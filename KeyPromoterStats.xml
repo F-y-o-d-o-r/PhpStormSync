@@ -13,16 +13,16 @@
         <entry key="'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="31" />
         <entry key="'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'" value="1" />
-        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="37" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="38" />
         <entry key="'Ctrl+Enter'" value="11" />
         <entry key="'Ctrl+F2'" value="4" />
         <entry key="'Ctrl+F5'" value="4" />
         <entry key="'Ctrl+R'" value="1" />
         <entry key="'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
-        <entry key="'Ctrl+V' or 'Shift+Insert'" value="13" />
+        <entry key="'Ctrl+V' or 'Shift+Insert'" value="15" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="13" />
-        <entry key="'Delete'" value="8" />
+        <entry key="'Delete'" value="10" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="16" />
         <entry key="'F8'" value="2" />
         <entry key="'F9'" value="3" />
