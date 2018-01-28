@@ -4,6 +4,7 @@
       <mapping pattern="algoritm" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping ext="24_2weeks_homework_contacts" type="PLAIN_TEXT" />
+      <mapping ext="cvs" type="PLAIN_TEXT" />
       <mapping ext="access" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
