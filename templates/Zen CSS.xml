@@ -1,0 +1,9 @@
+<templateSet group="Zen CSS">
+  <template name="cmn" value="/* =========================================================================================&#10;   $text$&#10;   ========================================================================================= */" description="comment" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
