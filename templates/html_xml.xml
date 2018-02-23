@@ -1,8 +1,0 @@
-<templateSet group="html/xml">
-  <template name="cm" value="&lt;!-- =========================================================================================&#10;     $text$&#10;     ========================================================================================= --&gt;" description="comment - html" toReformat="false" toShortenFQNames="true">
-    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
