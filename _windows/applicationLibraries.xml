@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/gsap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
