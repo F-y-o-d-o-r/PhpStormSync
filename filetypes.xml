@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="index" type="HTML" />
+      <mapping pattern="common files here" type="PLAIN_TEXT" />
       <mapping pattern=".https" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
